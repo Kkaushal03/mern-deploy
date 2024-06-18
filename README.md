@@ -48,6 +48,15 @@ This project was created using the following technologies.
 
    #Screenshots:
 ![1](https://github.com/Kkaushal03/mern-deploy/assets/112949511/af2fb4fb-24e2-4d1b-8dc2-9fb605ef1ad9)
+
+![2](https://github.com/Kkaushal03/mern-deploy/assets/112949511/b57b6ed0-a02f-4cd6-9206-b0c84369ce2e)
+![3](https://github.com/Kkaushal03/mern-deploy/assets/112949511/a304e91e-b286-4294-9aee-bbd90610eee9)
+
+![4](https://github.com/Kkaushal03/mern-deploy/assets/112949511/7e7218f3-e7c3-412d-8093-f046cd1d7d7c)
+![6](https://github.com/Kkaushal03/mern-deploy/assets/112949511/69b78469-b302-4450-9f72-71c6a3651d95)
+![7](https://github.com/Kkaushal03/mern-deploy/assets/112949511/814358d6-4440-484e-83f6-5e7cc2ac8d47)
+![8](https://github.com/Kkaushal03/mern-deploy/assets/112949511/7191a9c3-bbbd-4382-86c6-8e23dd443943)
+![10](https://github.com/Kkaushal03/mern-deploy/assets/112949511/84a17101-066f-4edb-9be9-dfe8ac9da378)
    
 
 
