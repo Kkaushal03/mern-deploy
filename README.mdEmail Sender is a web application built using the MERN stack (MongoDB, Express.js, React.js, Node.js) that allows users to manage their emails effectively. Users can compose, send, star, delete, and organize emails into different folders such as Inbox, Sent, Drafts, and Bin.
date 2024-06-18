@@ -1,0 +1,60 @@
+# Email Sender
+Email Sender is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to manage their emails effectively. Users can compose, send, star, delete, and organize emails into different folders such as Inbox, Sent, Drafts, and Bin.
+
+
+
+- [Live Project](https://mern-rideshare.netlify.app)
+
+
+
+### List of features:
+  - **Compose Emails**:  Write and send new emails to specified recipients.
+  - **View Emails**: Browse emails categorized into Inbox, Sent, Drafts, and Bin.
+  - **Star Emails**: Mark important emails with a star for quick access.
+  - **Delete Emails**: Move emails to the bin or permanently delete them
+  - **Responsive Design**:Optimized for various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
+  
+
+###  Technologies used
+
+This project was created using the following technologies.
+
+####  Frontend 
+
+- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
+- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
+- [Context Api](https://react.dev/reference/react/useContext) - For state management
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
+- [Axios](https://www.npmjs.com/package/axios) - For making Api calls
+- [Material UI](https://mui.com/material-ui/) - For Design components
+
+
+
+####  Backend 
+
+- [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
+- [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
+- [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
+- [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
+- [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
+- [smtp](https://sendgrid.com/en-us/blog/what-is-an-smtp-server) - Used to send mails to email-id 
+
+
+####  Database 
+
+ - [MongoDB ](https://www.mongodb.com/) - Free cloud service to store MongoDB collections.
+
+   #Screenshots:
+   
+
+
+
+
+
+
+
+
+
+   
