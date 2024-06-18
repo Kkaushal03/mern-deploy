@@ -3,7 +3,6 @@ Email Sender is a web application built using the MERN stack (MongoDB, Express.j
 
 
 
-- [Live Project](https://mern-rideshare.netlify.app)
 
 
 
