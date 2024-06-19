@@ -38,7 +38,7 @@ This project was created using the following technologies.
 - [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-- [smtp](https://app.elasticemail.com/login) - Used to send mails to email-id 
+- [elastic email](https://app.elasticemail.com/login) - Used to send mails to email-id 
 
 
 ####  Database 
