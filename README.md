@@ -1,4 +1,4 @@
-#InBox Pro
+# InBox Pro
 InBox Pro is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to manage their emails effectively. Users can compose, send, star, delete, and organize emails into different folders such as Inbox, Sent, Drafts, and Bin.
 
 
